@@ -18,10 +18,10 @@
 [<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=for-the-badge&labelColor=000000">](https://git-scm.com/)
 [<img src="https://img.shields.io/badge/-visual%20studio%20code-007ACC.svg?logo=visualstudiocode&style=for-the-badge&labelColor=000000">](https://code.visualstudio.com/)
 
-<!-- <h2 align="center">Activity</h2> -->
-
+<h2 align="center">Activity</h2>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 <!--
 **kazutan1230/kazutan1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
