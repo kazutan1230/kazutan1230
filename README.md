@@ -17,6 +17,7 @@
 [<img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonaws&style=for-the-badge&labelColor=000000">](https://aws.amazon.com/)
 [<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=for-the-badge&labelColor=000000">](https://git-scm.com/)
 [<img src="https://img.shields.io/badge/-visual%20studio%20code-007ACC.svg?logo=visualstudiocode&style=for-the-badge&labelColor=000000">](https://code.visualstudio.com/)
+[<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white">](https://leafletjs.com/)
 
 <h2 align="center">Activity</h2>
 <!--START_SECTION:waka-->
